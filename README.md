@@ -97,11 +97,12 @@ Filament in a polar 3D printer is the material used for printing. It is a thin s
 ![image](https://github.com/PSriVarshan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/114944059/91e224f3-c501-47b3-a5a9-44d3ff1c0a18)
 
 
+## Result: 
+Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
+
+
 ### By
 Sri Varshan P
 
 212222240104
-
-## Result: 
-Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
-
