@@ -13,26 +13,29 @@
 ## PROCEDURE:
 
 ## Assembly of Polar 3D Printer
-### 1
+### Step 1
 Select 'Assembly of Polar 3D Printer' from the visible list.
-### 2
+### Step 2
 All the parts related to Polar 3D Printer will be shown on the screen.
-### 3
+### Step 3
 Select the parts in sequence in which they are shown.
-### 4
+### Step 4
 When the first part is selected then it will open in the blank space in the left side of the screen.
-### 5
+### Step 5
 Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-### 6
+### Step 6
 If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Playing with Axes
 
-### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
+### Step 1:
+Move the r-axis slider and observe the movement of the r-axis assembly.
 
-### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
+### Step 2:
+Move the y-axis slider and observe the movement of the y-axis assembly.
 
-### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
+### Step 3:
+Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
 
@@ -40,7 +43,6 @@ If the user follows an incorrect sequence then a pop-up will appear on the scree
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
-## Output:
 
 ### Name: Sri Varshan P
 ### Register Number: 212222240104
