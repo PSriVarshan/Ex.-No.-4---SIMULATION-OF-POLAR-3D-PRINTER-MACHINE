@@ -94,11 +94,12 @@ The extruder in a polar 3D printer feeds, melts, and deposits the filament mater
 
 Filament in a polar 3D printer is the material used for printing. It is a thin strand supplied on a spool and is melted and deposited layer by layer to create the printed object. Different types of filament with varied properties and colors are available for different printing needs.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+![image](https://github.com/PSriVarshan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/114944059/91e224f3-c501-47b3-a5a9-44d3ff1c0a18)
 
 
-### Name: Sri Varshan P
-### Register Number: 212222240104
+### By
+Sri Varshan P
+212222240104
 
 ## Result: 
 Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
